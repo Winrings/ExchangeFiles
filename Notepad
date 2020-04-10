@@ -1,3 +1,4 @@
+//简易json转化
 var parseKeys = (str, lvl = 1) => {
   let out = []
   let level = 0
